@@ -1,0 +1,1082 @@
+[
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4102 Binningen",
+        "livingArea": 123,
+        "plotSize": 433,
+        "price": 1295485,
+        "yearOfConstruction": "1952"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4414 Füllinsdorf",
+        "livingArea": 230,
+        "plotSize": 922,
+        "price": 1671308,
+        "yearOfConstruction": "1988"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4460 Gelterkinden",
+        "livingArea": 90,
+        "plotSize": 228,
+        "price": 441261,
+        "yearOfConstruction": "1968"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4410 Liestal",
+        "livingArea": 106,
+        "plotSize": 296,
+        "price": 687093,
+        "yearOfConstruction": "1974"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4448 Läufelfingen",
+        "livingArea": 141,
+        "plotSize": 506,
+        "price": 671437,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 4,
+        "address": "4107 Ettingen",
+        "livingArea": null,
+        "plotSize": 164,
+        "price": 636689,
+        "yearOfConstruction": "1980"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4417 Ziefen",
+        "livingArea": 180,
+        "plotSize": 300,
+        "price": 417385,
+        "yearOfConstruction": "1826"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4123 Allschwil",
+        "livingArea": 150,
+        "plotSize": null,
+        "price": 1361807,
+        "yearOfConstruction": "2011"
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4107 Ettingen",
+        "livingArea": 267,
+        "plotSize": 344,
+        "price": 1322014,
+        "yearOfConstruction": "1992"
+    },
+    {
+        "NumberOfRooms": 6.5,
+        "address": "4431 Bennwil",
+        "livingArea": 220,
+        "plotSize": 515,
+        "price": 526153,
+        "yearOfConstruction": "1855"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4244 Röschenz",
+        "livingArea": null,
+        "plotSize": 223,
+        "price": 751647,
+        "yearOfConstruction": "2018"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4153 Reinach BL",
+        "livingArea": 140,
+        "plotSize": 273,
+        "price": 1145156,
+        "yearOfConstruction": "2001"
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4106 Therwil, Vogesenstrasse 29a",
+        "livingArea": 225,
+        "plotSize": 340,
+        "price": 2033867,
+        "yearOfConstruction": "2002"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4105 Biel-Benken BL, Im Breitfeld 33",
+        "livingArea": null,
+        "plotSize": 256,
+        "price": 1229163,
+        "yearOfConstruction": "2005"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4497 Rünenberg",
+        "livingArea": 170,
+        "plotSize": 651,
+        "price": 658796,
+        "yearOfConstruction": "1998"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4222 Zwingen, Löwenplatz 4",
+        "livingArea": null,
+        "plotSize": 373,
+        "price": 428881,
+        "yearOfConstruction": "1850"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4223 Blauen",
+        "livingArea": 270,
+        "plotSize": 680,
+        "price": 1140734,
+        "yearOfConstruction": "1989"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4452 Itingen",
+        "livingArea": 151,
+        "plotSize": 337,
+        "price": 882521,
+        "yearOfConstruction": "1995"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4437 Waldenburg",
+        "livingArea": 201,
+        "plotSize": 422,
+        "price": 875447,
+        "yearOfConstruction": "2018"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4104 Oberwil BL",
+        "livingArea": 123,
+        "plotSize": 228,
+        "price": 397931,
+        "yearOfConstruction": "1880"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4144 Arlesheim",
+        "livingArea": 134,
+        "plotSize": 327,
+        "price": 1352964,
+        "yearOfConstruction": "2008"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4448 Läufelfingen",
+        "livingArea": 164,
+        "plotSize": 331,
+        "price": 610160,
+        "yearOfConstruction": null
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4452 Itingen",
+        "livingArea": 134.4,
+        "plotSize": 169,
+        "price": 742804,
+        "yearOfConstruction": "1998"
+    },
+    {
+        "NumberOfRooms": 6.5,
+        "address": "4117 Burg im Leimental",
+        "livingArea": 145,
+        "plotSize": 632,
+        "price": 716275,
+        "yearOfConstruction": "2018"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4105 Biel- Benken",
+        "livingArea": 165,
+        "plotSize": 515,
+        "price": 1193792,
+        "yearOfConstruction": "1977"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4246 Wahlen b. Laufen",
+        "livingArea": 187,
+        "plotSize": 526,
+        "price": 848918,
+        "yearOfConstruction": "1995"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4223 Blauen",
+        "livingArea": 126,
+        "plotSize": 462,
+        "price": 618119,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4411 Seltisberg",
+        "livingArea": 160,
+        "plotSize": 186,
+        "price": 371402,
+        "yearOfConstruction": "1830"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4418 Reigoldswil",
+        "livingArea": null,
+        "plotSize": 293,
+        "price": 583631,
+        "yearOfConstruction": "1990"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4132 Muttenz",
+        "livingArea": 200,
+        "plotSize": 458,
+        "price": null,
+        "yearOfConstruction": "1955"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4222 Zwingen",
+        "livingArea": 182,
+        "plotSize": 709,
+        "price": 663218,
+        "yearOfConstruction": "1991"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4153 Reinach BL",
+        "livingArea": 120,
+        "plotSize": 227,
+        "price": 943537,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4107 Ettingen",
+        "livingArea": null,
+        "plotSize": null,
+        "price": 1989653,
+        "yearOfConstruction": "2011"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4418 Reigoldswil",
+        "livingArea": 315,
+        "plotSize": 670,
+        "price": 521731,
+        "yearOfConstruction": "1748"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4147 Aesch BL",
+        "livingArea": 150,
+        "plotSize": 261,
+        "price": 1145156,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4153 Reinach BL",
+        "livingArea": 125,
+        "plotSize": 203.2,
+        "price": 952380,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4417 Ziefen",
+        "livingArea": 120,
+        "plotSize": 293,
+        "price": 512888,
+        "yearOfConstruction": "1948"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4153 Reinach BL",
+        "livingArea": 131,
+        "plotSize": 226.4,
+        "price": 1014281,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 7,
+        "address": "4153 Reinach BL",
+        "livingArea": 189,
+        "plotSize": 409.3,
+        "price": 1412211,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4147 Aesch BL",
+        "livingArea": 150,
+        "plotSize": 261,
+        "price": 1034619,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4147 Aesch BL",
+        "livingArea": 150,
+        "plotSize": 261,
+        "price": 1078834,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4410 Liestal",
+        "livingArea": 137,
+        "plotSize": 241,
+        "price": 703011,
+        "yearOfConstruction": "1950"
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4106 Therwil",
+        "livingArea": 183,
+        "plotSize": 568,
+        "price": 1193792,
+        "yearOfConstruction": "1966"
+    },
+    {
+        "NumberOfRooms": 12,
+        "address": "4438 Langenbruck",
+        "livingArea": 294,
+        "plotSize": 294,
+        "price": 458947,
+        "yearOfConstruction": "1762"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4153 Reinach BL",
+        "livingArea": 122,
+        "plotSize": 205.2,
+        "price": 925852,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4105 Biel-Benken BL",
+        "livingArea": 244,
+        "plotSize": 585,
+        "price": 2078082,
+        "yearOfConstruction": "2003"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4243 Dittingen",
+        "livingArea": 150,
+        "plotSize": 470,
+        "price": 512888,
+        "yearOfConstruction": "1900"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4426 Lauwil",
+        "livingArea": null,
+        "plotSize": 1712,
+        "price": 1547508,
+        "yearOfConstruction": "1990"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4465 Hemmiken",
+        "livingArea": 158,
+        "plotSize": 832,
+        "price": 678494,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4254 Liesberg (Liesberg Dorf)",
+        "livingArea": 120,
+        "plotSize": 416,
+        "price": "On demand",
+        "yearOfConstruction": null
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4410 Liestal",
+        "livingArea": 350,
+        "plotSize": null,
+        "price": 884288,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4133 Pratteln",
+        "livingArea": 177,
+        "plotSize": 357,
+        "price": "On demand",
+        "yearOfConstruction": "2015"
+    },
+    {
+        "NumberOfRooms": 6.5,
+        "address": "4243 Dittingen",
+        "livingArea": 185,
+        "plotSize": 1355,
+        "price": 1056727,
+        "yearOfConstruction": "illa"
+    },
+    {
+        "NumberOfRooms": 9,
+        "address": "4148 Pfeffingen",
+        "livingArea": 966,
+        "plotSize": 1850,
+        "price": 5217311,
+        "yearOfConstruction": "2007"
+    },
+    {
+        "NumberOfRooms": 6.5,
+        "address": "4133 Pratteln, In den Talmatten",
+        "livingArea": 200,
+        "plotSize": 1065,
+        "price": 1671308,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4132 Muttenz, Käppeliweg 52",
+        "livingArea": 116,
+        "plotSize": 180,
+        "price": 875447,
+        "yearOfConstruction": "1967"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4415 Lausen",
+        "livingArea": 137,
+        "plotSize": 749,
+        "price": 840076,
+        "yearOfConstruction": "1977"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4410 Liestal",
+        "livingArea": 350,
+        "plotSize": null,
+        "price": 884289,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4422 Arisdorf, Hauptstrasse",
+        "livingArea": 350,
+        "plotSize": null,
+        "price": 884289,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4106 Therwil",
+        "livingArea": 120,
+        "plotSize": 108,
+        "price": "On demand",
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4418 Reigoldswil, -",
+        "livingArea": 158,
+        "plotSize": 915,
+        "price": 881637,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 4,
+        "address": "4133 Pratteln",
+        "livingArea": 136.22,
+        "plotSize": 464,
+        "price": 1188309,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4451 Wintersingen",
+        "livingArea": 367,
+        "plotSize": 1549,
+        "price": 433302,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4123 Allschwil",
+        "livingArea": 110,
+        "plotSize": 275,
+        "price": 521731,
+        "yearOfConstruction": "1770"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4202 Duggingen",
+        "livingArea": 145.8,
+        "plotSize": 613,
+        "price": 963876,
+        "yearOfConstruction": "1986"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4452 Itingen",
+        "livingArea": null,
+        "plotSize": null,
+        "price": 1768580,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4466 Ormalingen",
+        "livingArea": 180,
+        "plotSize": 288,
+        "price": 937347,
+        "yearOfConstruction": "2018"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4466 Ormalingen",
+        "livingArea": 180,
+        "plotSize": 163,
+        "price": 866604,
+        "yearOfConstruction": "2018"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4418 Reigoldswil",
+        "livingArea": 158,
+        "plotSize": 636,
+        "price": 641885,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4410 Liestal",
+        "livingArea": 133,
+        "plotSize": 233,
+        "price": 706548,
+        "yearOfConstruction": "1950"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4246 Wahlen b. Laufen",
+        "livingArea": 190,
+        "plotSize": 263,
+        "price": 706548,
+        "yearOfConstruction": "1994"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4422 Arisdorf, Im Chrüz 3",
+        "livingArea": 173,
+        "plotSize": 367,
+        "price": 862183,
+        "yearOfConstruction": "2010"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4242 Laufen, Delsbergerstrasse 76",
+        "livingArea": 133,
+        "plotSize": 147,
+        "price": 583631,
+        "yearOfConstruction": "1900"
+    },
+    {
+        "NumberOfRooms": 4,
+        "address": "4438 Langenbruck",
+        "livingArea": 124,
+        "plotSize": 107,
+        "price": 234337,
+        "yearOfConstruction": "1860"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4419 Lupsingen",
+        "livingArea": 158,
+        "plotSize": 405,
+        "price": 749459,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4432 Lampenberg",
+        "livingArea": 158,
+        "plotSize": 780,
+        "price": 825861,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4460 Gelterkinden, Ormalingenstrasse 2",
+        "livingArea": null,
+        "plotSize": 475,
+        "price": 1711101,
+        "yearOfConstruction": "1891"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4446 Buckten",
+        "livingArea": 117.9,
+        "plotSize": 728,
+        "price": 663218,
+        "yearOfConstruction": "1962"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4153 Reinach BL, Neueneichweg",
+        "livingArea": 158,
+        "plotSize": 708,
+        "price": 1341468,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4133 Pratteln",
+        "livingArea": 223.23,
+        "plotSize": 928,
+        "price": 1976919,
+        "yearOfConstruction": "haus"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4436 Oberdorf BL",
+        "livingArea": 110,
+        "plotSize": 440,
+        "price": 866604,
+        "yearOfConstruction": "1953"
+    },
+    {
+        "NumberOfRooms": 6.5,
+        "address": "4443 Wittinsburg, Hinterholzring 21",
+        "livingArea": 166,
+        "plotSize": 1563,
+        "price": 1104478,
+        "yearOfConstruction": "1972"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4448 Läufelfingen, Haldenrain",
+        "livingArea": 146,
+        "plotSize": 507,
+        "price": "On demand",
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4424 Arboldswil",
+        "livingArea": 158,
+        "plotSize": 710,
+        "price": 745701,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 6.5,
+        "address": "4469 Anwil, Eichmattweg 177",
+        "livingArea": 210,
+        "plotSize": 608,
+        "price": 1061148,
+        "yearOfConstruction": "2009"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4433 Ramlinsburg",
+        "livingArea": 131,
+        "plotSize": 722,
+        "price": 853340,
+        "yearOfConstruction": "1972"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4253 Liesberg",
+        "livingArea": 315,
+        "plotSize": 300,
+        "price": 485475,
+        "yearOfConstruction": "1929"
+    },
+    {
+        "NumberOfRooms": 8,
+        "address": "4419 Lupsingen",
+        "livingArea": 450,
+        "plotSize": 2286,
+        "price": "On demand",
+        "yearOfConstruction": "2008"
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4493 Wenslingen",
+        "livingArea": 304,
+        "plotSize": 1275,
+        "price": "On demand",
+        "yearOfConstruction": "1966"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4153 Reinach BL, Im Zentrum",
+        "livingArea": 156,
+        "plotSize": 222,
+        "price": 1229163,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4414 Füllinsdorf",
+        "livingArea": 148,
+        "plotSize": 450,
+        "price": 1016934,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4105 Biel-Benken BL",
+        "livingArea": 310,
+        "plotSize": 1615,
+        "price": "On demand",
+        "yearOfConstruction": null
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4107 Ettingen",
+        "livingArea": 137,
+        "plotSize": 437,
+        "price": 1056727,
+        "yearOfConstruction": "1978"
+    },
+    {
+        "NumberOfRooms": 8,
+        "address": "4102 Binningen",
+        "livingArea": 185,
+        "plotSize": 243,
+        "price": 1220320,
+        "yearOfConstruction": "1850"
+    },
+    {
+        "NumberOfRooms": 9,
+        "address": "4203 Grellingen, Hansenrütti 4",
+        "livingArea": 195,
+        "plotSize": 1311,
+        "price": 1140734,
+        "yearOfConstruction": "1969"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4410 Liestal",
+        "livingArea": 160,
+        "plotSize": 750,
+        "price": 1220320,
+        "yearOfConstruction": "1982"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4444 Rümlingen",
+        "livingArea": 130,
+        "plotSize": 725,
+        "price": 601317,
+        "yearOfConstruction": "1959"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4436 Oberdorf BL, Vogelackerweg 4",
+        "livingArea": 84,
+        "plotSize": 514,
+        "price": 477517,
+        "yearOfConstruction": "1952"
+    },
+    {
+        "NumberOfRooms": 8,
+        "address": "4153 Reinach BL, Unterer Rebbergweg 32",
+        "livingArea": 242,
+        "plotSize": 542,
+        "price": 2281468,
+        "yearOfConstruction": "2002"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4224 Nenzlingen",
+        "livingArea": 150,
+        "plotSize": 430,
+        "price": "On demand",
+        "yearOfConstruction": "2009"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4424 Arboldswil, Wygarten",
+        "livingArea": 195,
+        "plotSize": 711,
+        "price": 866604,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 8.5,
+        "address": "4132 Muttenz",
+        "livingArea": 320,
+        "plotSize": 628,
+        "price": 1724366,
+        "yearOfConstruction": "1981"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4495 Zeglingen",
+        "livingArea": 135,
+        "plotSize": 103,
+        "price": 379360,
+        "yearOfConstruction": "1843"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4223 Blauen, Hanfgartenweg",
+        "livingArea": 131,
+        "plotSize": 464,
+        "price": 751647,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4465 Hemmiken, Hauptstrasse",
+        "livingArea": 195,
+        "plotSize": 840,
+        "price": 815315,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5,
+        "address": "4414 Füllinsdorf",
+        "livingArea": 188,
+        "plotSize": 387,
+        "price": 1078834,
+        "yearOfConstruction": "2017"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4410 Liestal",
+        "livingArea": 150,
+        "plotSize": 750,
+        "price": 1223857,
+        "yearOfConstruction": "osse"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4435 Niederdorf",
+        "livingArea": 120,
+        "plotSize": 190,
+        "price": 601317,
+        "yearOfConstruction": "1994"
+    },
+    {
+        "NumberOfRooms": 4,
+        "address": "4246 Wahlen b. Laufen",
+        "livingArea": 91,
+        "plotSize": 615,
+        "price": 433302,
+        "yearOfConstruction": "1954"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4117 Burg im Leimental, Oberer Feldweg",
+        "livingArea": 158,
+        "plotSize": 600,
+        "price": 671176,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "röschenz",
+        "livingArea": null,
+        "plotSize": null,
+        "price": 574789,
+        "yearOfConstruction": null
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4117 Burg im Leimental",
+        "livingArea": 173,
+        "plotSize": 647,
+        "price": 726886,
+        "yearOfConstruction": "2018"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4414 Füllinsdorf",
+        "livingArea": 100,
+        "plotSize": 822,
+        "price": 751647,
+        "yearOfConstruction": "1967"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4414 Füllinsdorf, Giebenacherstrasse",
+        "livingArea": 158,
+        "plotSize": 450,
+        "price": 1193792,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4254 Liesberg Dorf, Fichtweg",
+        "livingArea": 158,
+        "plotSize": 603,
+        "price": 719812,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4223 Blauen",
+        "livingArea": 107,
+        "plotSize": 467,
+        "price": 526153,
+        "yearOfConstruction": "1986"
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4242 Laufen",
+        "livingArea": 204,
+        "plotSize": 1348,
+        "price": 1211477,
+        "yearOfConstruction": "1988"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4254 Liesberg Dorf",
+        "livingArea": 120,
+        "plotSize": 596,
+        "price": 526153,
+        "yearOfConstruction": "1991"
+    },
+    {
+        "NumberOfRooms": 6,
+        "address": "4451 Wintersingen",
+        "livingArea": 450,
+        "plotSize": 1500,
+        "price": 433302,
+        "yearOfConstruction": "1804"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4124 Schönenbuch, Ledermattweg 8",
+        "livingArea": 151,
+        "plotSize": 390,
+        "price": 1061148,
+        "yearOfConstruction": "1999"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4153 Reinach BL",
+        "livingArea": 136.3,
+        "plotSize": 253,
+        "price": 1233585,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 7,
+        "address": "4153 Reinach BL",
+        "livingArea": 254.1,
+        "plotSize": 1161,
+        "price": 2608656,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4457 Diegten",
+        "livingArea": 138,
+        "plotSize": 303,
+        "price": 574789,
+        "yearOfConstruction": "1981"
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4445 Häfelfingen",
+        "livingArea": 260,
+        "plotSize": 730,
+        "price": 726886,
+        "yearOfConstruction": null
+    },
+    {
+        "NumberOfRooms": 7.5,
+        "address": "4402 Frenkendorf",
+        "livingArea": 156,
+        "plotSize": 712,
+        "price": 1145156,
+        "yearOfConstruction": "1973"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4132 Muttenz",
+        "livingArea": 200,
+        "plotSize": 460,
+        "price": 1034619,
+        "yearOfConstruction": "1955"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4223 Blauen",
+        "livingArea": 145,
+        "plotSize": 648,
+        "price": 703011,
+        "yearOfConstruction": null
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4153 Reinach BL",
+        "livingArea": 136.3,
+        "plotSize": 253,
+        "price": 1233585,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4106 Therwil",
+        "livingArea": 129,
+        "plotSize": 467,
+        "price": 1105363,
+        "yearOfConstruction": "1977"
+    },
+    {
+        "NumberOfRooms": null,
+        "address": "4225 Brislach, Breitenbachstrasse 32",
+        "livingArea": 393,
+        "plotSize": 962,
+        "price": 1064685,
+        "yearOfConstruction": null
+    },
+    {
+        "NumberOfRooms": 6.5,
+        "address": "4103 Bottmingen, Efeuweg 12",
+        "livingArea": 160,
+        "plotSize": 280,
+        "price": 1591722,
+        "yearOfConstruction": "2006"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4153 Reinach BL",
+        "livingArea": 128.6,
+        "plotSize": 299,
+        "price": 1313171,
+        "yearOfConstruction": "2019"
+    },
+    {
+        "NumberOfRooms": 5.5,
+        "address": "4105 Biel-Benken",
+        "livingArea": 150,
+        "plotSize": 325,
+        "price": 1192907,
+        "yearOfConstruction": "1996"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4147 Aesch BL",
+        "livingArea": 89.5,
+        "plotSize": 388,
+        "price": 919662,
+        "yearOfConstruction": "1983"
+    },
+    {
+        "NumberOfRooms": 4.5,
+        "address": "4153 Reinach BL",
+        "livingArea": 140.6,
+        "plotSize": 287,
+        "price": 1313171,
+        "yearOfConstruction": "2019"
+    }
+]
